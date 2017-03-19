@@ -1,0 +1,25 @@
+body {
+  color: #eeeeee;
+  background-color: #111111;
+}
+
+.container {
+  margin-top: 15%;
+}
+
+.klocek {
+  padding: 20px;
+  text-align: center;
+}
+
+#imie {
+  font-size: 260%;
+}
+
+#email {
+  font-size: 210%;
+}
+
+#kierunek {
+  font-size: 190%;
+}
